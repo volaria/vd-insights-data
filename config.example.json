@@ -1,0 +1,28 @@
+{
+  "instagram": {
+    "ig_user_id": "17841423630534340",
+    "access_token": "BURAYA_LONG_LIVED_TOKEN",
+    "app_id": "BURAYA_META_APP_ID",
+    "app_secret": "BURAYA_META_APP_SECRET",
+    "accounts": [
+      {
+        "name": "MD",
+        "ig_user_id": "17841423630534340"
+      },
+      {
+        "name": "DEFNE",
+        "ig_user_id": "DISCOVER_ILE_BUL"
+      },
+      {
+        "name": "GP",
+        "ig_user_id": "DISCOVER_ILE_BUL"
+      }
+    ]
+  },
+  "youtube": {
+    "channel_id": "UCroAxJEklT_omxvLXFeDCEg",
+    "token_file": "token.json",
+    "client_secret_file": "client_secret.json"
+  },
+  "output_dir": "data"
+}
